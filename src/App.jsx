@@ -142,7 +142,10 @@ function App() {
           <ButtonComponent></ButtonComponent>
         </div>
 
-        <MemeListComponent></MemeListComponent>
+        {/* ── LISTA MEMES ───────────────────────────────────────  */}
+        <div className="section-block">
+          <MemeListComponent></MemeListComponent>
+        </div>
 
       </main>
     </>
