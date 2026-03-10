@@ -1,0 +1,21 @@
+.header {
+  background-color: rgb(55, 0, 255);
+  color: rgb(255, 255, 255);
+}
+
+.title {
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+.header-list {
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+}
